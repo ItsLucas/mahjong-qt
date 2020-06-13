@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/items">
+        <file>item/1.png</file>
+        <file>item/2.png</file>
+        <file>item/3.png</file>
+        <file>item/4.png</file>
+        <file>item/5.png</file>
+        <file>item/6.png</file>
+        <file>item/7.png</file>
+        <file>item/8.png</file>
+        <file>item/9.png</file>
+        <file>item/10.png</file>
+        <file>item/11.png</file>
+        <file>item/12.png</file>
+        <file>item/13.png</file>
+        <file>item/14.png</file>
+        <file>item/15.png</file>
+        <file>item/16.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>bg/ico.png</file>
+        <file>bg/board.png</file>
+        <file>bg/ranking.png</file>
+        <file>bg/back.png</file>
+        <file>bg/gameBg.png</file>
+        <file>bg/bg.jpg</file>
+        <file>bg/backg.jpg</file>
+        <file>bg/bg1.jpg</file>
+        <file>bg/yes.png</file>
+        <file>bg/bgofphb.png</file>
+        <file>bg/num (1).png</file>
+        <file>bg/num (2).png</file>
+        <file>bg/num (3).png</file>
+        <file>bg/num (4).png</file>
+        <file>bg/num (5).png</file>
+        <file>bg/num (6).png</file>
+        <file>bg/num (7).png</file>
+        <file>bg/num (8).png</file>
+        <file>bg/num (9).png</file>
+        <file>bg/phb.png</file>
+        <file>bg/bgofphb_gaitubao_541x812.png</file>
+        <file>bg/score.png</file>
+        <file>bg/1.png</file>
+        <file>bg/2.png</file>
+        <file>bg/3.png</file>
+        <file>bg/rankbg.png</file>
+        <file>bg/rankbg1.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>buttons/button.png</file>
+    </qresource>
+    <qresource prefix="/BGM">
+        <file>BGM/bgm_start.mp3</file>
+        <file>BGM/bgm.wav</file>
+    </qresource>
+</RCC>

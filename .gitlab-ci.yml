@@ -1,0 +1,9 @@
+job1:
+  script:
+    - mkdir ./build
+    - cd ./build
+    - qmake ../llk.pro
+    - make -j2
+  artifacts:
+    paths:
+      - build/
